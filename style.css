@@ -1,0 +1,28 @@
+h1{
+    color: #f7325e;
+    text-color:#7dc410;
+    font-family: fantasy;
+    text-align: center;
+}
+h2{
+    color: #f7325e;
+    text-color:#7dc410;
+    font-family: fantasy;  
+}
+li{
+    font-size:20px;
+    margin:30px;
+}
+h2.introduction{
+    font-size: 30px;
+    margin:0%;
+}
+p.introduction{
+    font-family: 'Times New Roman', Times, serif;
+    align-content: inherit;
+    
+}
+img.introduction{
+    height: 200px;
+    weight:200px;
+}
